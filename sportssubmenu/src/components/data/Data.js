@@ -1,6 +1,6 @@
-import { MdSportsFootball } from 'react-icons/fa'
 import * as MLBICONS from 'react-mlb-logos'
 import * as NBAIcons from 'react-nba-logos'
+import * as NFLIcons from 'react-nfl-logos'
 
 const sublinks = [
   {
@@ -72,6 +72,44 @@ const sublinks = [
       { label: 'Toronto', icons: <NBAIcons.TOR />, url: '../nbateams/Toronto' },
       { label: 'Utah', icons: <NBAIcons.UTA />, url: '../nbateams/Utah' },
       { label: 'Washington', icons: <NBAIcons.WAS />, url: '../nbateams/Washington' },
+    ]
+  },
+  {
+    section: 'Football',
+    links: [
+      { label: 'Arizona', icons: <NFLIcons.ARI />, url: '../nflteams/Arizona' },
+      { label: 'Atlanta', icons: <NFLIcons.ATL />, url: '../nflteams/Atlanta' },
+      { label: 'Baltimore', icons: <NFLIcons.BAL />, url: '../nflteams/Baltimore' },
+      { label: 'Buffalo', icons: <NFLIcons.BUF />, url: '../nflteams/Buffalo' },
+      { label: 'Carolina', icons: <NFLIcons.CAR />, url: '../nflteams/Carolina' },
+      { label: 'Chicago', icons: <NFLIcons.CHI />, url: '../nflteams/Chicago' },
+      { label: 'Cincinnati', icons: <NFLIcons.CIN />, url: '../nflteams/Cincinnati' },
+      { label: 'Cleveland', icons: <NFLIcons.CLE />, url: '../nflteams/Cleveland' },
+      { label: 'Dallas', icons: <NFLIcons.DAL />, url: '../nflteams/Dallas' },
+      { label: 'Denver', icons: <NFLIcons.DEN />, url: '../nflteams/Denver' },
+      { label: 'Detroit', icons: <NFLIcons.DET />, url: '../nflteams/Detroit' },
+      { label: 'Green Bay', icons: <NFLIcons.GB />, url: '../nflteams/Greenbay' },
+      { label: 'Houston', icons: <NFLIcons.HOU />, url: '../nflteams/Houston' },
+      { label: 'Indianapolis', icons: <NFLIcons.IND />, url: '../nflteams/Indianapolis' },
+      { label: 'Jacksonville', icons: <NFLIcons.JAX />, url: '../nflteams/Jacksonville' },
+      { label: 'Kansas City', icons: <NFLIcons.KC />, url: '../nflteams/Kansascity' },
+      { label: 'Chargers', icons: <NFLIcons.LAC />, url: '../nflteams/Chargers' },
+      { label: 'Rams', icons: <NFLIcons.LAR />, url: '../nflteams/Rams' },
+      { label: 'Las Vegas', icons: <NFLIcons.LV />, url: '../nflteams/Lasvegas' },
+      { label: 'Miami', icons: <NFLIcons.MIA />, url: '../nflteams/Miami' },
+      { label: 'Minnesota', icons: <NFLIcons.MIN />, url: '../nflteams/Minnesota' },
+      { label: 'New England', icons: <NFLIcons.NE />, url: '../nflteams/Newengland' },
+      { label: 'New Orleans', icons: <NFLIcons.NO />, url: '../nflteams/Neworleans' },
+      { label: 'Giants', icons: <NFLIcons.NYG />, url: '../nflteams/Giants' },
+      { label: 'Jets', icons: <NFLIcons.NYJ />, url: '../nflteams/Jets' },
+      { label: 'Philadelphia', icons: <NFLIcons.PHI />, url: '../nflteams/Philadelphia' },
+      { label: 'Pittsburgh', icons: <NFLIcons.PIT />, url: '../nflteams/Pittsburgh' },
+      { label: 'Seattle', icons: <NFLIcons.SEA />, url: '../nflteams/Seattle' },
+      { label: 'San Francisco', icons: <NFLIcons.SF />, url: '../nflteams/Sanfrancisco' },
+      { label: 'Tampa Bay', icons: <NFLIcons.TB />, url: '../nflteams/Tampabay' },
+      { label: 'Tennessee', icons: <NFLIcons.TEN />, url: '../nflteams/Tennessee' },
+      { label: 'Washington', icons: <NFLIcons.WAS />, url: '../nflteams/Washington' },
+      { label: 'Nfl', icons: <NFLIcons.NFL />, url: '../nflteams/Nfl' },
     ]
   },
 ]
