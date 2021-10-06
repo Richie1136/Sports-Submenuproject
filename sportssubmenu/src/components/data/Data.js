@@ -3,9 +3,9 @@ import * as MLBICONS from 'react-mlb-logos'
 
 const sublinks = [
   {
-    page: 'baseball',
+    section: 'Baseball',
     links: [
-      { label: 'Arizona', icons: <MLBICONS.ARI />, url: '../mlbteams/Arizon' },
+      { label: 'Arizona', icons: <MLBICONS.ARI />, url: '../mlbteams/Arizona' },
       { label: 'Atlanta', icons: <MLBICONS.ATL />, url: './mlbteams/atlanta' },
       { label: 'Baltimore', icons: <MLBICONS.BAL />, url: './mlbteams/baltimore' },
       { label: 'Boston', icons: <MLBICONS.BOS />, url: './mlbteams/boston' },
