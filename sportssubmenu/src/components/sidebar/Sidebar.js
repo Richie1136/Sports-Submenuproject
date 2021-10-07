@@ -1,11 +1,16 @@
 import React from 'react'
 import sublinks from '../data/Data'
 import { Link } from 'react-router-dom'
+import { useAContext } from '../context/Context'
+import { FaTimes } from 'react-icons/fa'
 
 const Sidebar = () => {
+  const { sideBarOpen, closeSidebar } = useAContext()
   return (
     <div className='sidebar'>
-      <button className='close-btm'></button>
+      <button className='close-btm' onClick={closeSidebar}>
+        <FaTimes />
+      </button>
       <div className='sidebar-links'>
         {sublinks.map((item, index) => {
           // You add index becasue its a list
