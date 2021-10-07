@@ -7,7 +7,7 @@ import { FaTimes } from 'react-icons/fa'
 const Sidebar = () => {
   const { sideBarOpen, closeSidebar } = useAContext()
   return (
-    <div className='sidebar'>
+    <div className={`${sideBarOpen ? 'sidebar-wrapper show' : 'sidebar-wrapper'}`}>
       <button className='close-btm' onClick={closeSidebar}>
         <FaTimes />
       </button>
