@@ -4,6 +4,7 @@ import { useAContext } from '../context/Context'
 
 const Submenu = () => {
   const { submenuOpen, location, page: { page, links } } = useAContext()
+
   const container = useRef(null)
   const [columns, setColumns] = useState('col-2')
 
@@ -21,11 +22,11 @@ const Submenu = () => {
     }
   }, [location, links])
   return (
-    <div className='submenu-show'>
+    <div className={`${submenuOpen ? 'submenu show' : 'submenu'}`} ref={container}>
       <h4>{page}</h4>
       <div className={`submenu-center ${columns}`}>
         {links.map((link, index) => {
-          const { url, icons, label } = link
+          const { icons, label, url } = link
           return <Link to={url} key={index}>
             {icons}
             {label}
