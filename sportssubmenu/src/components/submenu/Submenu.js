@@ -2,11 +2,11 @@ import React, { useState, useRef, useEffect } from 'react'
 import { useAContext } from '../context/Context'
 import { Link } from 'react-router-dom'
 
+
 const Submenu = () => {
   const { submenuOpen, location, page: { page, links } } = useAContext()
   const container = useRef(null)
   const [columns, setColumns] = useState('col-2')
-
   useEffect(() => {
     setColumns('col-2')
     const submenu = container.current

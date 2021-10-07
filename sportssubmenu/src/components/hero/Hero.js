@@ -1,6 +1,7 @@
 import React from 'react'
 import { useAContext } from '../context/Context'
 
+
 const Hero = () => {
   const { closeSubmenu } = useAContext()
   return (
@@ -13,7 +14,6 @@ const Hero = () => {
           </p>
         </article>
       </div>
-
     </section>
   )
 }

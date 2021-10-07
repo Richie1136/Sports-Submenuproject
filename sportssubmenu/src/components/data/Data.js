@@ -37,7 +37,7 @@ const sublinks = [
       { label: 'Toronto', icons: <MLBICONS.TOR />, url: '../mlbteams/Toronto' },
       { label: 'Washington', icons: <MLBICONS.WAS />, url: '../mlbteams/Washington' },
       { label: 'MLB', icons: <MLBICONS.MLB />, url: '../mlbteams/Mlb' },
-    ]
+    ],
   },
   {
     page: 'Basketball',
@@ -72,7 +72,7 @@ const sublinks = [
       { label: 'Toronto', icons: <NBAIcons.TOR />, url: '../nbateams/Toronto' },
       { label: 'Utah', icons: <NBAIcons.UTA />, url: '../nbateams/Utah' },
       { label: 'Washington', icons: <NBAIcons.WAS />, url: '../nbateams/Washington' },
-    ]
+    ],
   },
   {
     page: 'Football',
@@ -113,7 +113,5 @@ const sublinks = [
     ],
   },
 ];
-
-
 
 export default sublinks;
