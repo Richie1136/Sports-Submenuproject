@@ -1,8 +1,10 @@
-import { useState, useContext } from 'react'
+import React, { useState, useContext } from 'react'
+
 
 import sublinks from '../data/Data'
 
 const AppContext = React.createContext()
+
 
 export const AppProvider = ({ children }) => {
   const [sidebarOpen, setSidebarOpen] = useState(true)
@@ -26,7 +28,7 @@ export const AppProvider = ({ children }) => {
   const closeSubmenu = () => {
     setSubmenuOpen(false)
   }
-  return <AppContext.Provider value={{ sidebarOpen, openSidebar, closeSidebar, submenuOpen, openSubmenu, closeSubmenu, location, page }}>
+  return <AppContext.Provider value={{ sidebarOpen, openSidebar, closeSidebar, submenuOpen, openSubmenu, closeSubmenu, location, section }}>
     {children}
   </AppContext.Provider>
 }

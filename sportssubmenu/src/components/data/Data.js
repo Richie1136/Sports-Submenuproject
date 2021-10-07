@@ -110,9 +110,9 @@ const sublinks = [
       { label: 'Tennessee', icons: <NFLIcons.TEN />, url: '../nflteams/Tennessee' },
       { label: 'Washington', icons: <NFLIcons.WAS />, url: '../nflteams/Washington' },
       { label: 'Nfl', icons: <NFLIcons.NFL />, url: '../nflteams/Nfl' },
-    ]
+    ],
   },
-]
+];
 
 
 
