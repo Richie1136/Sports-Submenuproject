@@ -29,5 +29,8 @@ export const AppProvider = ({ children }) => {
   return <AppContext.Provider value={{ sidebarOpen, openSidebar, closeSidebar, submenuOpen, openSubmenu, closeSubmenu, location, page }}>
     {children}
   </AppContext.Provider>
+}
 
+export const useAContext = () => {
+  return useContext(AppContext)
 }
