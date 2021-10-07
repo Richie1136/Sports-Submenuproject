@@ -23,7 +23,7 @@ const Submenu = () => {
   return (
     <div className='submenu-show'>
       <h4>{page}</h4>
-      <div className='submenu-center'>
+      <div className={`submenu-center ${columns}`}>
         {links.map((link, index) => {
           const { url, icons, label } = link
           return <Link to={url} key={index}>
