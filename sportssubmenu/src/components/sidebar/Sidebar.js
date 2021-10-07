@@ -14,9 +14,9 @@ const Sidebar = () => {
       <div className='sidebar-links'>
         {sublinks.map((item, index) => {
           // You add index becasue its a list
-          const { links, section } = item
+          const { links, page } = item
           return <article key={index}>
-            <h4>{section}</h4>
+            <h4>{page}</h4>
             <div className='sidebar-sublinks'>
               {links.map((link, index) => {
                 const { url, icons, label } = link

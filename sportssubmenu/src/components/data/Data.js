@@ -4,7 +4,7 @@ import * as NFLIcons from 'react-nfl-logos'
 
 const sublinks = [
   {
-    section: 'Baseball',
+    page: 'Baseball',
     links: [
       { label: 'Arizona', icons: <MLBICONS.ARI />, url: '../mlbteams/Arizona' },
       { label: 'Atlanta', icons: <MLBICONS.ATL />, url: '../mlbteams/Atlanta' },
@@ -40,7 +40,7 @@ const sublinks = [
     ]
   },
   {
-    section: 'Basketball',
+    page: 'Basketball',
     links: [
       { label: 'Atlanta', icons: <NBAIcons.ATL />, url: '../nbateams/Atlanta' },
       { label: 'Brooklyn', icons: <NBAIcons.BKN />, url: '../nbateams/Brooklyn' },
@@ -75,7 +75,7 @@ const sublinks = [
     ]
   },
   {
-    section: 'Football',
+    page: 'Football',
     links: [
       { label: 'Arizona', icons: <NFLIcons.ARI />, url: '../nflteams/Arizona' },
       { label: 'Atlanta', icons: <NFLIcons.ATL />, url: '../nflteams/Atlanta' },
