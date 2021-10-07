@@ -7,6 +7,8 @@ const Navbar = () => {
   const displaySubmenu = (e) => {
     const section = e.target.textContent
     const tempBt = e.target.getBoundingClientRect()
+    const center = (tempBt.left + tempBt.right) / 2
+    const bottom = tempBt.bottom - 3
   }
   return (
     <div>
