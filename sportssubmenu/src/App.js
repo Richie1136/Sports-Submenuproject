@@ -10,9 +10,9 @@ function App() {
     <>
       <Navbar />
       <Sidebar />
-      < Hero />
-      <Submenu />
       <Navigation />
+      <Hero />
+      <Submenu />
     </>
   );
 }

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const Arizona = () => {
+const ArizonaCards = () => {
 
   return (
     <div>
@@ -9,4 +9,4 @@ const Arizona = () => {
   )
 }
 
-export default Arizona
+export default ArizonaCards
