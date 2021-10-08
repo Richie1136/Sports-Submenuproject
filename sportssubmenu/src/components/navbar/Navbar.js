@@ -21,6 +21,10 @@ const Navbar = () => {
     }
   }
 
+  const handleOnClick = (e) => {
+    e.preventDefault()
+  }
+
   return (
     <nav className='nav' onMouseOver={handleSubmenu}>
       <div className='nav-center'>
@@ -31,13 +35,13 @@ const Navbar = () => {
         </div>
         <ul className='nav-links'>
           <li>
-            <button className='link-btn' onMouseOver={displaySubmenu}>Baseball</button>
+            <button className='link-btn' onMouseOver={displaySubmenu} onClick={handleOnClick}>Baseball</button>
           </li>
           <li>
             <button className='link-btn' onMouseOver={displaySubmenu}>Basketball</button>
           </li>
           <li>
-            <button className='link-btn' onMouseOver={displaySubmenu}>Football</button>
+            <button className='link-btn' onMouseOver={displaySubmenu} onClick={handleOnClick}>Football</button>
           </li>
         </ul>
       </div>
