@@ -334,6 +334,7 @@ Stripe Styles
   box-shadow: var(--dark-shadow);
   position: relative;
   padding: 4rem 2rem;
+  overflow: scroll;
 }
 .close-btn {
   font-size: 2rem;
