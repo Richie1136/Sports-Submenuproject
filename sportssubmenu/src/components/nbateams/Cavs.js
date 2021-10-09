@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Cleveland = () => {
+const Cavs = () => {
   return (
     <div>
-      <h2>Cleveland</h2>
+      <h2>Cleveland Cavs</h2>
     </div>
   )
 }
 
-export default Cleveland
+export default Cavs

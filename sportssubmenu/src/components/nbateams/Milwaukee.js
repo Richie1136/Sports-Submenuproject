@@ -3,7 +3,7 @@ import React from 'react'
 const Milwaukee = () => {
   return (
     <div>
-      <h2>Milwaukee</h2>
+      <h2>Milwaukee Bucks</h2>
     </div>
   )
 }

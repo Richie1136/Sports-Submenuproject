@@ -138,7 +138,7 @@ const Navigation = () => {
           <Route path='/nbateams/Bulls' component={Bulls} />
           <Route path='/nbateams/Cavs' component={Cavs} />
           <Route path='/nbateams/Dallas' component={Dallas} />
-          <Route path='/nbateams/Denver' component={Denver} />
+          <Route path='/nbateams/Nuggets' component={Nuggets} />
           <Route path='/nbateams/Pistons' component={Pistons} />
           <Route path='/nbateams/Goldenstate' component={GoldenState} />
           <Route path='/nbateams/Rockets' component={Rockets} />
