@@ -18,7 +18,7 @@ const sublinks = [
       { label: 'Detroit', icons: <MLBICONS.DET />, url: '../mlbteams/Detroit' },
       { label: 'Houston', icons: <MLBICONS.HOU />, url: '../mlbteams/Houston' },
       { label: 'Kansas City', icons: <MLBICONS.KAN />, url: '../mlbteams/Kansascity' },
-      { label: 'Angels', icons: <MLBICONS.LAA />, url: '../mlbteams/Angles' },
+      { label: 'Angels', icons: <MLBICONS.LAA />, url: '../mlbteams/Angels' },
       { label: 'Dodgers', icons: <MLBICONS.LAD />, url: '../mlbteams/Dodgers' },
       { label: 'Miami', icons: <MLBICONS.MIA />, url: '../mlbteams/Miami' },
       { label: 'Milwaukee', icons: <MLBICONS.MIL />, url: '../mlbteams/Milwaukee' },
