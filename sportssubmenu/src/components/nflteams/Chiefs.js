@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Kansascity = () => {
+const Chiefs = () => {
   return (
     <div>
       <h2>Kansas City Chiefs</h2>
@@ -8,4 +8,4 @@ const Kansascity = () => {
   )
 }
 
-export default Kansascity
+export default Chiefs

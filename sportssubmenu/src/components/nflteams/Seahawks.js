@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Seattle = () => {
+const Seahawks = () => {
   return (
     <div>
       <h2>Seattle Seahawks</h2>
@@ -8,4 +8,4 @@ const Seattle = () => {
   )
 }
 
-export default Seattle
+export default Seahawks
