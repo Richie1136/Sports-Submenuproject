@@ -10,7 +10,8 @@ const Hero = () => {
         <article className='hero-info'>
           <h1>Sports</h1>
           <p>This applications presents all of the Baseball Teams, Basketball
-            Teams and Football Teams. Every team will have its own information.
+            Teams and Football Teams. Every team will have its own information. Regarding
+            the team and some information on the team's best players.
           </p>
         </article>
       </div>
