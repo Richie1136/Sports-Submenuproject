@@ -18,9 +18,9 @@ const Angels = () => {
         Mike Trout was drafted 25th overall by the Los Angeles Angels in the 2009 Mlb draft.
         Mike Trout has a career .305 BA 310 HR .419 OBP .583 SLG .1.002 OPS.
       </p>
-      <img src={logo} alt='trout' />
+      <img className='trout' src={logo} alt='trout' />
       <br />
-      <p className='players'>
+      <p className='player2'>
         The other really good player on the Los Angeles Angels is Shohei Ohtani. Shohei Ohtani was signed out of Japan during the 2017 offseason for 3 years earning
         a maximum of $3.5- miilion bonus and guaranteed salary of no more than the league minimum of 545k.
         Ohtani is one in a generation type of player due to the fact that he throws mid 90s-100 on his fastball as well as he can play the outfield and hit.
