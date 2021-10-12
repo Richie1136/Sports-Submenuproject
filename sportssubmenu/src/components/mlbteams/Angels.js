@@ -5,7 +5,7 @@ import logo2 from '../../images/ohtani.png'
 const Angels = () => {
   return (
     <div>
-      <h1>Los Angeles Angels</h1>
+      <h1 className='franchise'>Los Angeles Angels</h1>
       <p className='team'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, California.
         They are a member of the Western Division of Major League Baseball's American League. The Angels colors
         are Red and White. The Angels are also knowns as the Halos. The Angels have been apart of the Major Leagues since 1961.</p>
@@ -27,7 +27,7 @@ const Angels = () => {
         Ohtani is currently the favorite to win the American League Most Valuable player after posting a ridiculously good season.
         This past season Ohtani hit 46 homeruns, 100 rbis and stole 26 bases. On the other
         side he had a 3.18 ERA, 156 strikeouts and a 10.8 K/9.
-        <img src={logo2} alt='sho' />
+        <img className='ohtani' src={logo2} alt='sho' />
       </p>
     </div>
   )

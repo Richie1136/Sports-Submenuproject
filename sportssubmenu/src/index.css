@@ -247,7 +247,7 @@ Stripe Styles
     background: transparent;
     border-color: transparent;
     font-size: 1.1rem;
-    color: white;
+    color: black;
     text-transform: capitalize;
     letter-spacing: 1px;
     width: 10rem;
@@ -433,6 +433,11 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.players {
-  margin-top: 10px;
+.franchise {
+  text-align: center;
+}
+
+.ohtani {
+  position: absolute;
+  right: 0%;
 }
