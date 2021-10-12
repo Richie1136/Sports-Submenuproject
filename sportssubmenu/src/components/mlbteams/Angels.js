@@ -8,7 +8,9 @@ const Angels = () => {
       <h1 className='franchise'>Los Angeles Angels</h1>
       <p className='team'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, California.
         They are a member of the Western Division of Major League Baseball's American League. The Angels colors
-        are Red and White. The Angels are also knowns as the Halos. The Angels have been apart of the Major Leagues since 1961.</p>
+        are Midnight Blue, Red, Maroon, Silver and White. The Angels are also knowns as the Halos. The Angels have been apart of the Major Leagues since 1961. The Los
+        Angeles Angels finished this season with a 77-85 record due to in part because Mike Trout missed most of the
+        year with an injury. </p>
       <br />
       <p className='players'>
         The Angels having some of the best players in all of Major League Baseball. One of the players
@@ -18,7 +20,7 @@ const Angels = () => {
         Mike Trout was drafted 25th overall by the Los Angeles Angels in the 2009 Mlb draft.
         Mike Trout has a career .305 BA 310 HR .419 OBP .583 SLG .1.002 OPS.
       </p>
-      <img className='trout' src={logo} alt='trout' />
+      <img className='img1' src={logo} alt='img1' />
       <br />
       <p className='player2'>
         The other really good player on the Los Angeles Angels is Shohei Ohtani. Shohei Ohtani was signed out of Japan during the 2017 offseason for 3 years earning
@@ -27,7 +29,7 @@ const Angels = () => {
         Ohtani is currently the favorite to win the American League Most Valuable player after posting a ridiculously good season.
         This past season Ohtani hit 46 homeruns, 100 rbis and stole 26 bases. On the other
         side he had a 3.18 ERA, 156 strikeouts and a 10.8 K/9.
-        <img className='ohtani' src={logo2} alt='sho' />
+        <img className='img2' src={logo2} alt='img2' />
       </p>
     </div>
   )

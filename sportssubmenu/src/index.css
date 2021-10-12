@@ -203,14 +203,22 @@ Stripe Styles
   align-items: center;
 }
 
+.hero-info {
+  display: flex;
+  margin-bottom: 500px;
+  text-align: center;
+}
+
 .hero-info h1 {
-  text-transform: none;
-  max-width: 500px;
-  margin-bottom: 2rem;
+  position: absolute;
+  top: 20%;
+  right: 46%;
+  text-align: center;
 }
 .hero-info p {
-  max-width: 35em;
-  line-height: 1.8;
+  display: flex;
+  text-align: center;
+  margin-left: 300px;
 }
 .hero-images {
   display: none;
@@ -438,10 +446,12 @@ Stripe Styles
   color: #003263;
 }
 
-.ohtani {
+.img2 {
   position: absolute;
   right: 0%;
   top: 370px;
+  width: 349.99px;
+  height: 253.99px;
 }
 
 .player2 {
@@ -449,7 +459,7 @@ Stripe Styles
   display: flex;
   width: 330px;
   position: absolute;
-  top: 300px;
+  top: 285px;
   right: 17px;
   color: #ba0021;
 }
@@ -458,14 +468,16 @@ Stripe Styles
   display: flex;
   width: 330px;
   position: absolute;
-  top: 300px;
+  top: 285px;
   left: 17px;
   color: #ba0021;
 }
-.trout {
+.img1 {
   position: absolute;
   left: 0%;
   top: 668px;
+  width: 349.99px;
+  height: 253.99px;
 }
 .team {
   text-align: center;
