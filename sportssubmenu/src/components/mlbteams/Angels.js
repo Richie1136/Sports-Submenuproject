@@ -1,6 +1,7 @@
 import React from 'react'
 import logo from '../../images/Trout.png'
 import logo2 from '../../images/ohtani.png'
+import '../styles/Angels.css'
 
 const Angels = () => {
   return (
