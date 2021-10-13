@@ -441,7 +441,7 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.franchise {
+.hou {
   text-align: center;
   color: #003263;
 }
@@ -454,16 +454,16 @@ Stripe Styles
   height: 253.99px;
 }
 
-.player2 {
+.verlander {
   text-align: center;
   display: flex;
-  width: 330px;
+  width: 400px;
   position: absolute;
   top: 285px;
   right: 17px;
   color: #ba0021;
 }
-.players {
+.altuve {
   text-align: center;
   display: flex;
   width: 330px;
@@ -479,7 +479,7 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.team {
+.astros {
   text-align: center;
   margin-top: 25px;
   display: flex;

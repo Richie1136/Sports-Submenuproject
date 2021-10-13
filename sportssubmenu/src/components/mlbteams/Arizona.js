@@ -5,14 +5,14 @@ import '../styles/Arizona.css'
 
 const Arizona = () => {
   return (
-    <div className='franchise'>
+    <div className='ari'>
       <h1>Arizona Diamondbacks</h1>
-      <p className='team'>The Arizona Diamondbacks are a Major League Baseball team. They are based in Phoenix, Arizona.
+      <p className='diamondbacks'>The Arizona Diamondbacks are a Major League Baseball team. They are based in Phoenix, Arizona.
         They are a member of the Western Division of Major League Baseball's National League. The Diamondbacks colors
         are Sedona Red, Sonoran Sand, Black, Teal and White. The Diamondbacks were established as an expansion team and began play in 1998. The Arizona
         Diamondbacks finished this season with a 52-110 record which was tied for the worst in the league. </p>
       <br />
-      <p className='players'>
+      <p className='marte'>
         The Diamondbacks don't have many good players given the fact of there record this past season but they have some good players . One of the players
         who is on the Arizona Diamondbacks is Ketel Marte.
         Ketel Marte is an Major League Baseball utily player who has played Shortstop, 2nd base, outfield and 3rd base for the Arizona Diamondbacks.
@@ -23,7 +23,7 @@ const Arizona = () => {
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
-      <p className='player2'>
+      <p className='smith'>
         One of the other good player on the Ariozna Diamondbacks is Pavin Smith. Pavin Smith was a rookie during the 2021 Major league season.
         Pavin Smith is an Major League Baseball outfielder and 1st baseman.
         Pavin Smith was drafted in the 1st round 7th overall in the 2017 Mlb draft.

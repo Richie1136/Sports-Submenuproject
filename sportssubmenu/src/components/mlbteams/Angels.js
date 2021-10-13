@@ -5,15 +5,15 @@ import '../styles/Angels.css'
 
 const Angels = () => {
   return (
-    <div>
-      <h1 className='franchise'>Los Angeles Angels</h1>
-      <p className='team'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, California.
+    <div className='laa'>
+      <h1>Los Angeles Angels</h1>
+      <p className='angels'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, California.
         They are a member of the Western Division of Major League Baseball's American League. The Angels colors
         are Midnight Blue, Red, Maroon, Silver and White. The Angels are also knowns as the Halos. The Angels have been apart of the Major Leagues since 1961. The Los
         Angeles Angels finished this season with a 77-85 record due to in part because Mike Trout missed most of the
         year with an injury. </p>
       <br />
-      <p className='players'>
+      <p className='trout'>
         The Angels having some of the best players in all of Major League Baseball. One of the players
         who is currently on the Los Angeles Angels is Mike Trout.
         Mike Trout is an Major League Baseball center fielder for the Los Angeles Angles.
@@ -23,7 +23,7 @@ const Angels = () => {
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
-      <p className='player2'>
+      <p className='ohtani'>
         The other really good player on the Los Angeles Angels is Shohei Ohtani. Shohei Ohtani was signed out of Japan during the 2017 offseason for 3 years earning
         a maximum of $3.5- miilion bonus and guaranteed salary of no more than the league minimum of 545k.
         Ohtani is one in a generation type of player due to the fact that he throws mid 90s-100 on his fastball as well as he can play the outfield and hit.

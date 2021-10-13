@@ -441,7 +441,7 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.franchise h1 {
+.laa h1 {
   text-align: center;
   color: #003263;
 }
@@ -454,7 +454,7 @@ Stripe Styles
   height: 253.99px;
 }
 
-.player2 {
+.ohtani {
   text-align: center;
   display: flex;
   width: 330px;
@@ -463,7 +463,7 @@ Stripe Styles
   right: 17px;
   color: #ba0021;
 }
-.players {
+.trout {
   text-align: center;
   display: flex;
   width: 330px;
@@ -479,7 +479,7 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.team {
+.angels {
   text-align: center;
   margin-top: 25px;
   display: flex;
