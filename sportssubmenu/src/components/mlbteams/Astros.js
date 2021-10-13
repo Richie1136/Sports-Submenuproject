@@ -3,14 +3,14 @@ import logo from '../../images/altuve.png'
 import logo2 from '../../images/verlander.png'
 import '../styles/Astros.css'
 
-const Angels = () => {
+const Astros = () => {
   return (
     <div className='hou'>
       <h1>Houston Astros</h1>
       <p className='astros'>The Houston Astros are a Major League Baseball team. They are based in Houston, Texas.
         They are a member of the Western Division of Major League Baseball's American League. The Astros colors
         are Navy, Orange, and Light Orange. The team was founded in 1962 and was initially known as the Houston Colt. The Houston
-        Astros finished the regular season with a 95-67 record and are currently competing against the Chicago White Sox in the American League Division Series. </p>
+        Astros finished the regular season with a 95-67 record and have advanced to the American League Championship Series and will face the Boston Red Sox. </p>
       <br />
       <p className='altuve'>
         The Astros have some really good players on the roster, however i am limiting the amount of players to two. One of the players
@@ -35,4 +35,4 @@ const Angels = () => {
   )
 }
 
-export default Angels
+export default Astros

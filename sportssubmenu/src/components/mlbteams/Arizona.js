@@ -19,7 +19,7 @@ const Arizona = () => {
         Marte is a 1-time Mlb All-Star.
         Kertel Marte was signed out of the Dominican Republic as an international free agent about two months before his 17th birthday in 2010. Marte spent a little over 5 years in the
         mariners organization before being traded to the diamondbacks.
-        Kertel Marter has a career .287 BA 70 HR .346 OBP .456 SLG .802 OPS.
+        Kertel Marte has a career .287 BA 70 HR .346 OBP .456 SLG .802 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
