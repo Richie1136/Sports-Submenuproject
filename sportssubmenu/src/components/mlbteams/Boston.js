@@ -13,7 +13,7 @@ const Boston = () => {
         The Red Sox finished the regular season with a 92-70 record and have advanced to the American League Championship Series and will face the Houston Astros. </p>
       <br />
       <p className='bogaerts'>
-        The Red Sox have a talented roster, so it was hard to narrow my selection to two players, but i had two choose the two players who are cornerstone frnachise players on the left side of the infield.One of the players
+        The Red Sox have a talented roster, so it was hard to narrow my selection to two players, but i had two choose the two players who are cornerstone franchise players on the left side of the infield.One of the players
         being Xander Bogaerts.
         Xander Bogaerts is an Major League Baseball shortstop for the Boston Red Sox.
         Bogaerts is a three-time Mlb All-Star; three-time winner of the  Silver Slugger award.
