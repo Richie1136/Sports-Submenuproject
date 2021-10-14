@@ -94,13 +94,11 @@ import TampaBay from '../nflteams/Tampabay'
 import Tennessee from '../nflteams/Tennessee'
 import Washington from '../nflteams/Washington'
 import Nfl from '../nflteams/Nfl'
-import Hero from '../hero/Hero'
 
 const Navigation = () => {
   return (
     <div className='navigation'>
       <Switch>
-        <Route exact path='/' component={Hero} />
         <Route path='/mlbteams/Arizona' component={Arizona} />
         <Route path='/mlbteams/Atlanta' component={Atlanta} />
         <Route path='/mlbteams/Baltimore' component={Baltimore} />
