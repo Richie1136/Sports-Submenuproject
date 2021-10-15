@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.col h1 {
+.chc h1 {
   text-align: center;
-  color: #33006f;
+  color: #0e3386;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.cron {
+.hendricks {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #000000;
+  color: #0e3386;
 }
-.story {
+.contreras {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #33006f;
+  color: #0e3386;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.rockies {
+.cubs {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #000000;
+  color: #cc3433;
 }
