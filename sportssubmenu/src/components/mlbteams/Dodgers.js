@@ -18,7 +18,7 @@ const Dodgers = () => {
         Max Scherzer has been amongst the best starting pitchers in the major leagues for 10 years.
         Max Scherzer was drafted 11th overall by the diamondbacks in the 2006 MLB draft.
         Max Scherzer is a eight-time Mlb All-Star; three-time CY Young winner.
-        Scherzer has a career has a career 3.16 ERA 3020 strikeouts and a 10.7 K/9.
+        Scherzer has a career 3.16 ERA 3020 strikeouts and a 10.7 K/9.
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
