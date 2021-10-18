@@ -27,7 +27,6 @@ const Astros = () => {
         for pitchers because it is a major surgery and requires alot of miss time and recovery to hopefully get back to where you were before you need TJS.
         Justin Verlander is a eight-time Mlb All-Star; two-time American League CY Young winner and a one-time American League Most Value Player.
         Justin Verlander was drafted 2nd overall by the Detroit Tigers in the 2004 Mlb draft and was later traded to the Houston Astros on August 31, 2017.
-        Mike Trout was drafted 25th overall by the Los Angeles Angels in the 2009 Mlb draft.
         Verlander has a career 3.33 ERA, 3013 strikeouts and a 9.1 K/9.
         <img className='img2' src={logo2} alt='img2' />
       </p>

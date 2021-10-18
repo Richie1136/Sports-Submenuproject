@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.lad h1 {
+.kc h1 {
   text-align: center;
-  color: #005a9c;
+  color: #004687;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.betts {
+.merrifield {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #005a9c;
+  color: #004687;
 }
-.scherzer {
+.perez {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #ef3e42;
+  color: #bd9b60;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.dodgers {
+.royals {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #ef3e42;
+  color: #004687;
 }

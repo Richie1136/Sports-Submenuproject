@@ -1,31 +1,33 @@
 import React from 'react'
-import logo from '../../images/candelario.png'
-import logo2 from '../../images/mize.png'
+import logo from '../../images/scherzer.png'
+import logo2 from '../../images/betts.png'
 import '../styles/Dodgers.css'
 
 const Dodgers = () => {
   return (
     <div className='lad'>
       <h1>Los Angeles Dodgers</h1>
-      <p className='dodgers'>The Detroit Tigers are a Major League Baseball team. They are based in Detroit, Michigan.
-        They are a member of the Central Division of Major League Baseball's American League. The Tigers colors
-        are Navy, and Orange. The Tigers began in 1901.
-        The Detroit Tigers are the oldest American League baseball team to have only one home city and one name in their history. Beginning in 1894, the Tigers played at Boulevard Park as a charter member in the Western League.
-        The Tigers finished the regular season with a 77-85 record. Although the tigers finished 8 games below .500 the future is extremely bright for this organization.</p>
+      <p className='dodgers'>The Los Angeles Dodgers are a Major League Baseball team. They are based in Los Angeles, Ca.
+        They are a member of the West Division of Major League Baseball's National League. The Dodgers colors
+        are Dodger Blue, and Silver. The Dodgers began in 1958.
+        The Dodgers finished the regular season with a 106-56 record. The Dodgers are currently battling the Atlanta Braves in the National League Championship series with the series tied 1-1.
+        Dodgers have been one of the better mlb franchises the past 10+ years, continously making the playoffs.
+      </p>
       <br />
-      <p className='candelario'>
-        Jeimer Candelario is one of the longest tenure tigers and has been a solid player for years, and this best season being his best.
-        Jeimer Candelario is a 1st and 3rd baseman.
-        Jeimer Candelario was signed by the Cubs in November of 2010 as a free agent.
-        Candelario won 2020 September 13th AL Player of the Week winner and 2021 AL Doubles leader.
-        Candelario has a career .246 BA 53 HR .334 OBP .410 SLG .744 OPS.
+      <p className='scherzer'>
+        Max Scherzer has been amongst the best starting pitchers in the major leagues for 10 years.
+        Max Scherzer was drafted 11th overall by the diamondbacks in the 2006 MLB draft.
+        Max Scherzer is a eight-time Mlb All-Star; three-time CY Young winner.
+        Scherzer has a career has a career 3.16 ERA 3020 strikeouts and a 10.7 K/9.
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
-      <p className='mize'>
-        Casey Mize was the best pitcher of the tigers this past season and is projected to be the ace of the future for the tigers. After being selected #1 overall in the 2018 MLB draft and dominating the minor leagues, alot of hype was surrounding him.
-        Casey Mize threw one complete game.
-        Mize pitching numbers this past season 3.71 ERA 118 strikeouts and a 7.1 K/9.
+      <p className='betts'>
+        One of the other top players on the dodgers roster is Mookie Betts.
+        Mookie Betts is a 2nd baseman and outfielder.
+        Mookie Betts was drafted in the 5th round by the Red Sox in the 2011 MLB draft.
+        Mookie Betts 5-time Mlb All-Star; 2018 American League Most Valuable Player; five-time Gold Glove Winner; four-time Silver Slugger Winner.
+        Betts has a career .296 BA 141 HR .373 OBP .518 SLG .890 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>
     </div >
