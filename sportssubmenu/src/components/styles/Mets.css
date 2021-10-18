@@ -443,7 +443,7 @@ Stripe Styles
 
 .nym h1 {
   text-align: center;
-  color: #004687;
+  color: #002d72;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.merrifield {
+.lindor {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #004687;
+  color: #002d72;
 }
-.perez {
+.degrom {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #bd9b60;
+  color: #ff5910;
 }
 .img1 {
   position: absolute;
@@ -484,5 +484,5 @@ Stripe Styles
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #004687;
+  color: #002d72;
 }

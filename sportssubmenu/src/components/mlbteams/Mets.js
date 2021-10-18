@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../../images/perez.png'
-import logo2 from '../../images/merrifield.png'
+import logo from '../../images/degrom.png'
+import logo2 from '../../images/lindor.png'
 import '../styles/Mets.css'
 
 const Mets = () => {
@@ -13,18 +13,18 @@ const Mets = () => {
         The Mets finished the regular season with a 77-85 record. The Mets were one of the most disappointing teams in the mlb this past season, after trading for lindor and having one of the best pitchers in all of baseball, many people believed that this team was a playoff team and should contend for the division, however that did not happen.  </p>
       <br />
       <p className='degrom'>
-        Salvador Perez was the best mlb catcher for the 2021 season, blasting a career high 41 homeruns and 121 RBIs.
-        Salvador Perez was signed by the Royals for $65,000 when he was 16 years old. His minor league career began in 2007.
-        Salvador Perez is a seven-time Mlb All-Star; five-time Gold Glove Winner; four-time Silver Slugger Winner.
-        Perez has a career .270 BA 200 HR .302 OBP .463 SLG .765 OPS.
+        Jacob deGrom has been one of the best pitchers in baseball over the last 7 years. Unfortunately for deGrom he suffered right forearm tightness on July 18th which kept him out for the rest of the season.
+        Jacob deGrom was drafted in the 9th round by the Mets in the 2010 MLB draft.
+        Jacob deGrom is a four-time Mlb All-Star; two-time NL CY Young Winner; 2018 NL ERA leader.
+        deGrom has a career 2.50 ERA 1505 strikeouts and a 10.7 K/9.
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
       <p className='lindor'>
-        Whit Merrifield is a 2nd baseman and outfielder.
-        Whit Merrifield was drafted in the 9th round by the Royals in the 2010 MLB draft.
-        Whit Merrifled is a two-time Mlb All-Star; two-time AL Hits leader; two-time AL Stolen Bases leader; 2021 AL Doubles leader.
-        Merrifield has a career .291 BA 68 HR .337 OBP .434 SLG .771 OPS.
+        Francisco Lindor is a shortstop. Francisco Lindor was traded from the Cleveland Indians to the New York Mets on January 7th 2021.
+        Francisco Lindor was drafted in the 1st round by the Indians in the 2011 MLB draft.
+        Francisco Lindor is a four-time Mlb All-Star; two-time AL Silver Slugger Winner; two-time AL Gold Glove Winner.
+        Lindor has a career .278 BA 158 HR .343 OBP .478 SLG .821 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>
     </div >
