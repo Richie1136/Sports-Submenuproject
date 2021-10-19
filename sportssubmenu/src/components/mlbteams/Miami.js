@@ -9,7 +9,7 @@ const Miami = () => {
       <h1>Miami Marlins</h1>
       <p className='marlins'>The Miami Marlins are a Major League Baseball team. They are based in Miami, FL.
         They are a member of the Eastern Division of Major League Baseball's National League. The Marlins colors
-        are Miami Blue, Caliente Red, Slate Gray, and Midnight Black. The Mets were founded in 1991.
+        are Miami Blue, Caliente Red, Slate Gray, and Midnight Black. The Marlins were founded in 1991.
         The Marlins finished the regular season with a 67-95 record. The Marlins are in the rebuilding stages and have been playing alot of young guys to get them experience.
         These two pitchers will be key for the Marlins going forward.
       </p>
