@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.mia h1 {
+.mlb h1 {
   text-align: center;
-  color: #00a3e0;
+  color: #002d72;
 }
 
 .img2 {
@@ -454,7 +454,7 @@ Stripe Styles
   height: 253.99px;
 }
 
-.rogers {
+.alc {
   text-align: center;
   display: flex;
   width: 330px;
@@ -463,7 +463,7 @@ Stripe Styles
   right: 17px;
   color: #41748d;
 }
-.alcantara {
+.ale {
   text-align: center;
   display: flex;
   width: 330px;
@@ -479,10 +479,57 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.marlins {
+.league {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
   color: #41748d;
+}
+.alw {
+  text-align: center;
+  display: flex;
+  width: 330px;
+  position: absolute;
+  top: 1000px;
+  left: 17px;
+}
+.img3 {
+  position: absolute;
+  left: 0%;
+  top: 340px;
+  width: 349.99px;
+  height: 253.99px;
+}
+
+.nle {
+  text-align: center;
+  display: flex;
+  width: 330px;
+  position: absolute;
+  top: 1000px;
+  right: 17px;
+}
+.img4 {
+  position: absolute;
+  right: 0%;
+  top: 340px;
+  width: 349.99px;
+  height: 253.99px;
+}
+
+.nlc {
+  text-align: center;
+  display: flex;
+  width: 330px;
+  position: absolute;
+  top: 1800px;
+  left: 17px;
+}
+.img5 {
+  position: absolute;
+  left: 0%;
+  top: 340px;
+  width: 349.99px;
+  height: 253.99px;
 }
