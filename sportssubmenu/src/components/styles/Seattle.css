@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.sf h1 {
+.sea h1 {
   text-align: center;
-  color: #fd5a1e;
+  color: #0c2c56;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.gausman {
+.haniger {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #27251f;
+  color: #005c5c;
 }
-.crawford {
+.france {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #fd5a1e;
+  color: #0c2c56;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.giants {
+.mariners {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #27251f;
+  color: #005c5c;
 }

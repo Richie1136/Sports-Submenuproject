@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../../images/tatis.png'
-import logo2 from '../../images/machado.png'
+import logo from '../../images/crawford.png'
+import logo2 from '../../images/gausman.png'
 import '../styles/Sanfrancisco.css'
 
 const Sanfrancisco = () => {
@@ -14,21 +14,20 @@ const Sanfrancisco = () => {
 
       </p>
       <br />
-      <p className='tatis'>
-        Fernando Tatis Jr. is one of, if not the most entertaining baseball player to watch.
-        Fernando Tatis Jr. was signed by the Chicago White Sox in July of 2015 as an amateur free agent and was then traded to the San Diego Padres on June 4th, 2016, in a trade that might go down as the worst trade ever. Tatis had a ton of hype around him while he was going through the minor league system.
-        Fernando Tatis Jr. is a shortstop and outfielder.
-        Fernando Tatis Jr. is a one-time Mlb All-Star; 2020 NL SS Silver Slugger award winner; 2021 NL Homerun leader.
-        Tatis Jr. has a career .292 BA 81 HR .369 OBP .596 SLG .965 OPS.
+      <p className='crawford'>
+        Brandon Crawford had his best offensive season of his career during the 2021 season hitting .298 BA 24 HR .373 OBP .522 SLG and .895 OPS.
+        Brandon Crawford was drafted in the 4th round by the Giants in the 2008 MLB draft.
+        Brandon Crawford is a shortstop.
+        Brandon Crawford is a three-time Mlb All-Star; 2015 NL SS Silver Slugger award winner; 2015, 2016 & 2017 NL Gold Glove winner.
+        Crawford has a career .254 BA 130 HR .322 OBP .405 SLG .727 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
-      <p className='machado'>
-        Manny Machado is a excellent all around baseball player and one of the best players who plays on the left side of the infield in the national league.
-        Manny Machado was drafted in the 1st round by the Orioles in the 2010 MLB draft and was traded on July 18th, 2018 to the Los Angeles Dodgers and was signed as a free agent by the San Diego Padres on February 21st,2019.
-        Manny Machado is a shortstop and 3rd baseman.
-        Manny Machado is a five-time Mlb All-Star; 2013 & 2015 AL Gold Glove winner; 2020 NL 3B Silver Slugger award winner.
-        Machado has a career .280 BA 251 HR .338 OBP .488 SLG .826 OPS.
+      <p className='gausman'>
+        Kevin Gausman had his best pitching season of his career during the 2021 season pitching to a 2.81 ERA, 227 strikeouts and a 10.6 K/9.
+        Kevin Gausman was drafted in the 1st round by the Orioles in the 2012 MLB draft and was traded on July 31st, 2018 to the Atlanta Braves, then was claimed off of waivers by the Cincinnati Reds on August 5th,2019 and then signed with the San Francisco Giants as a free agent on December 10th,2019.
+        Kevin Gausman is a one-time Mlb All-Star; 2021 May NL Pitcher of the Month.
+        Gausman has a career 4.02 ERA, 1161 strikeouts and a 8.9 K/9.
         <img className='img2' src={logo2} alt='img2' />
       </p>
     </div >
