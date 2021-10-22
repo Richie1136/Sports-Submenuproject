@@ -25,7 +25,8 @@ const Seattle = () => {
       <p className='haniger'>
         Mitch Haniger has been known as the best players on the mariners for a few years now, a guy with a ton of power.
         Mitch Haniger was drafted in the 1st round by the Brewers in the 2012 MLB draft and was traded on July 31st, 2014 to the Arizona Diamondbacks, then was traded to the Seattle Mariners on November 23rd, 2016.
-        Mitch Haniger is a one-time Mlb All-Star; 2021 July 18th AL Pitcher of the Week.
+        Mitch Haniger is a outfielder.
+        Mitch Haniger is a one-time Mlb All-Star; 2021 July 18th AL Player of the Week.
         Haniger has a career .263 BA 101 HR .339 OBP .481 SLG .820 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>
