@@ -7,7 +7,7 @@ const Boston = () => {
   return (
     <div className='bos'>
       <h1>Boston Red Sox</h1>
-      <p className='boston'>The Boston Red Sox are a Major League Baseball team. They are based in Boston, Massachusetts.
+      <p className='redsox'>The Boston Red Sox are a Major League Baseball team. They are based in Boston, Massachusetts.
         They are a member of the Eastern Division of Major League Baseball's American League. The Red Sox colors
         are Red, Blue,and White. The red sox began in 1901, as one of the original franchises of the American League.
         The Red Sox finished the regular season with a 92-70 record and have advanced to the American League Championship Series and will face the Houston Astros. </p>
