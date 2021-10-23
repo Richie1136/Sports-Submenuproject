@@ -7,16 +7,16 @@ const Astros = () => {
   return (
     <div className='hou'>
       <h1>Houston Astros</h1>
-      <p className='astros'>The Houston Astros are a Major League Baseball team. They are based in Houston, Texas.
+      <p className='astros'>The Houston Astros are a Major League Baseball team. They are based in Houston, TX.
         They are a member of the Western Division of Major League Baseball's American League. The Astros colors
-        are Navy, Orange, and Light Orange. The team was founded in 1962 and was initially known as the Houston Colt. The Houston
-        Astros finished the regular season with a 95-67 record and have advanced to the American League Championship Series and will face the Boston Red Sox. </p>
+        are Navy, Orange, and Light Orange. The team was founded in 1962. The Houston
+        Astros finished the regular season with a 95-67 record and have advanced to the World Series and will play either the Atlanta Braves or Los Angeles Dodgers. </p>
       <br />
       <p className='altuve'>
-        The Astros have some really good players on the roster, however i am limiting the amount of players to two. One of the players
+        The Astros have some really good players on the roster, however I am limiting the amount of players to two. One of the players
         is Jose Altuve. Jose Altuve is the shortest player in all of baseball at 5 foot 6 inches tall, however that hasnt stopped him from having a very good career.
-        Jose Altuve is an Major League Baseball 2nd baseman for the Houston Astros.
-        Altuve is a seven-time Mlb All-Star; one-time American League Most Valuable Player, and is an five-time winner of the Silver Slugger Award.
+        Jose Altuve is a second baseman.
+        Altuve is a seven-time Mlb All-Star; one-time American League Most Valuable Player, and is an five-time Silver Slugger Award winner.
         Jose Altuve was signed by the Houston Astros in March of 2007 as an amateur free agent.
         Jose Altuve has a career .308 BA 164 HR .360 OBP .462 SLG .821 OPS
       </p>
@@ -25,7 +25,7 @@ const Astros = () => {
       <p className='verlander'>
         Another outstanding player on the Houston Astros is Justin Verlander. Justin Verlander was unable to pitch this year due to Tommy John Surgery, which is an elbow injury that causes pitchers to miss about a year and a half of time. Tommy John is especially rough
         for pitchers because it is a major surgery and requires alot of miss time and recovery to hopefully get back to where you were before you need TJS.
-        Justin Verlander is a eight-time Mlb All-Star; two-time American League CY Young winner and a one-time American League Most Value Player.
+        Justin Verlander is a eight-time Mlb All-Star; two-time American League CY Young Award winner and a one-time American League Most Valuable Player.
         Justin Verlander was drafted 2nd overall by the Detroit Tigers in the 2004 Mlb draft and was later traded to the Houston Astros on August 31, 2017.
         Verlander has a career 3.33 ERA, 3013 strikeouts and a 9.1 K/9.
         <img className='img2' src={logo2} alt='img2' />

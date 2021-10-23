@@ -7,9 +7,9 @@ const Angels = () => {
   return (
     <div className='laa'>
       <h1>Los Angeles Angels</h1>
-      <p className='angels'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, California.
+      <p className='angels'>The Los Angeles Angels of Anaheim are a Major League Baseball team. They are based in Anaheim, CA.
         They are a member of the Western Division of Major League Baseball's American League. The Angels colors
-        are Midnight Blue, Red, Maroon, Silver and White. The Angels are also knowns as the Halos. The Angels have been apart of the Major Leagues since 1961. The Los
+        are Midnight Blue, Red, Maroon, Silver and White.The Angels were founded in 1961. The Los
         Angeles Angels finished this season with a 77-85 record due to in part because Mike Trout missed most of the
         year with an injury. </p>
       <br />
@@ -17,7 +17,7 @@ const Angels = () => {
         The Angels having some of the best players in all of Major League Baseball. One of the players
         who is currently on the Los Angeles Angels is Mike Trout.
         Mike Trout is an Major League Baseball center fielder for the Los Angeles Angles.
-        Trout is a nine-time Mlb All-Star; three-time American League Most Valuable Player, and is an eight-time winner of the Silver Slugger Award.
+        Trout is a nine-time Mlb All-Star; three-time American League Most Valuable Player, and is an eight-time Silver Slugger Award winner.
         Mike Trout was drafted 25th overall by the Los Angeles Angels in the 2009 Mlb draft.
         Mike Trout has a career .305 BA 310 HR .419 OBP .583 SLG .1.002 OPS.
       </p>

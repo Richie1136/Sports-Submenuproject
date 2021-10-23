@@ -7,9 +7,9 @@ const Cleveland = () => {
   return (
     <div className='cle'>
       <h1>Cleveland Guardians</h1>
-      <p className='guardians'>The Cleveland Guardians are a Major League Baseball team. They are based in Cleveland, Ohio.
+      <p className='guardians'>The Cleveland Guardians are a Major League Baseball team. They are based in Cleveland, OH.
         They are a member of the Central Division of Major League Baseball's American League. The Guardians colors
-        are Navy Blue, and Red. The Guardians began in 1901.
+        are Navy Blue, and Red. The Indians were founded in 1894.
         The Guardians finished the regular season with a 80-82 record.</p>
       <br />
       <p className='bieber'>
@@ -23,8 +23,8 @@ const Cleveland = () => {
       <br />
       <p className='ramirez'>
         The second player who is an elite infielder is Jose Ramirez.
-        Jose Ramirez has played every position on the field except for 1st base, pitcher and catcher.
-        Jose Ramirez is a three-time Mlb All-Star; Three-time winner of the Silver Slugger award, 2017 AL Extra Base Hits leader and 2020 AL Extra Base Hits leader.
+        Jose Ramirez has played every position on the field except for first base, pitcher and catcher.
+        Jose Ramirez is a three-time Mlb All-Star; Three-time Silver Slugger Award winner, 2017 AL Extra Base Hits leader and 2020 AL Extra Base Hits leader.
         Jose Ramirez was signed by the Cleveland Indians Braves in November of 2009 as an amateur free agent.
         Ramirez has a career .278 BA 163 HR .354 OBP .501 SLG .855 OPS
         <img className='img2' src={logo2} alt='img2' />

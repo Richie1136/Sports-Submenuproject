@@ -16,7 +16,7 @@ const Yankees = () => {
       <p className='judge'>
         Aaron Judge has been a top 20 player throughout his mlb career. At 6 foot 7 inches aaron judge is an elite defender in the outfield, spending time in center field and his main position right field.
         Aaron Judge was drafted in the 1st round by the Yankees in the 2013 MLB draft.
-        Aaron Judge is a three-time Mlb All-Star; finished 2nd in the 2017 AL MVP; 2017 Silver Slugger winner; 2017 AL Home Runs leader with 52; finished 2nd in 2017 AL Rbis with 114.
+        Aaron Judge is a three-time Mlb All-Star; finished 2nd in the 2017 AL MVP; 2017 Silver Slugger Award winner; 2017 AL Home Runs leader with 52; finished 2nd in 2017 AL Rbis with 114.
         Judge has a career .276 BA 158 HR .386 OBP .554 SLG .940 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />

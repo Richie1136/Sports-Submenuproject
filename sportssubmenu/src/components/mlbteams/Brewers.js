@@ -7,9 +7,9 @@ const Brewers = () => {
   return (
     <div className='mil'>
       <h1>Milwaukee Brewers</h1>
-      <p className='brewers'>The Milwaukee Brewers are a Major League Baseball team. They are based in Milwaukee, Wisconsin.
+      <p className='brewers'>The Milwaukee Brewers are a Major League Baseball team. They are based in Milwaukee, WI.
         They are a member of the Central Division of Major League Baseball's National League. The Brewers colors
-        are Yellow,and Navy Blue. The brewers began in 1969.
+        are Yellow,and Navy Blue. The brewers were founded in 1969.
         The Brewers finished the regular season with a 95-67 record and lost in the National League Division series to the Atlanta Braves.</p>
       <br />
       <p className='burnes'>
@@ -18,7 +18,6 @@ const Brewers = () => {
         Burnes is a one-time Mlb All-Star; one-time NL ERA leader and one-time NL K/9 leader.
         Corbin Burnes was drafted in the 4th round of the 2016 Mlb draft by the brewers.
         Burnes has a career 3.39 ERA, 427 strikeouts and a 12.3 K/9.
-
       </p>
       <img className='img1' src={logo} alt='img1' />
       <br />
