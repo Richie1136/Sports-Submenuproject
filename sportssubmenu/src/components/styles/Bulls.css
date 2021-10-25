@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.bkn h1 {
+.chib h1 {
   text-align: center;
-  color: #000000;
+  color: #ce1141;
 }
 
 .img2 {
@@ -454,7 +454,7 @@ Stripe Styles
   height: 253.99px;
 }
 
-.harden {
+.lavine {
   text-align: center;
   display: flex;
   width: 330px;
@@ -463,14 +463,14 @@ Stripe Styles
   right: 17px;
   color: #000000;
 }
-.durant {
+.ball {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #000000;
+  color: #ce1141;
 }
 .img1 {
   position: absolute;
@@ -479,7 +479,7 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.nets {
+.bulls {
   text-align: center;
   margin-top: 25px;
   display: flex;
