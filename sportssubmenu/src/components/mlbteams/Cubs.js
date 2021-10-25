@@ -23,7 +23,7 @@ const Cubs = () => {
       <br />
       <p className='hendricks'>
         The second player who I selected from the Cubs roster is Kyle Hendricks. Although Kyle Hendricks had a very rough year this past season, he was a vital pitcher during the 2016 world series run.
-        Kyle Hendricks is a 2016 NL Pitching Title winner; 2016 NL ERA winner and 2016 August NL Pitcher of the Month.
+        Kyle Hendricks is a 2016 NL Pitching Title winner; 2016 NL ERA champion and 2016 August NL Pitcher of the Month.
         Kyle Hendricks was drafted in the 8th round of the 2011 Mlb draft by the Texas Rangers.
         Hendricks has a career 3.36 ERA, 1013 strikeouts and a 7.4 K/9.
         <img className='img2' src={logo2} alt='img2' />

@@ -15,7 +15,7 @@ const Cleveland = () => {
       <p className='bieber'>
         The Guardians have lost alot of talent over the last couple of years but they still have two very good players who stand out on the roster.
         One of those players being Shane Bieber.
-        Bieber is a two-time Mlb All-Star; one-time Cy Young Award Winner, 2020 AL ERA leader.
+        Bieber is a two-time Mlb All-Star; one-time Cy Young Award Winner, 2020 AL ERA champion.
         Shane Bieber was drafted in the 4th round of the 2016 Mlb draft by the Indians.
         Bieber has a career 3.29 ERA, 633 strikeouts and a 11.3 K/9.
       </p>

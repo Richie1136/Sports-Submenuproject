@@ -25,7 +25,7 @@ const Texas = () => {
       <p className='falefa'>
         Isiah Kiner-Falefa is one of the most unique players I have ever seen with more then 500 innings played behind the plate, he has also played shortstop, third base and second base in his short career thus far.
         Isiah Kiner-Falefa was drafted in the 4th round by the Rangers in the 2013 MLB draft.
-        Isiah Kiner-Falefa 2021 AL leader in singles with 136; 2020 AL Gold Glove winner.
+        Isiah Kiner-Falefa 2021 AL leader in singles with 136; 2020 AL Gold Glove Award winner.
         Falefa has a career .265 BA 16 HR .316 OBP .354 SLG .670 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>

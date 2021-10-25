@@ -25,7 +25,7 @@ const Twins = () => {
       <p className='buxton'>
         Byron Buxton is one of the best all around mlb centerfielders in all of baseball. One of the big issues that is holding buxton back from being even better is that he cant stay healthy.
         Byron Buxton was drafted in the 1st round by the Twins in the 2012 MLB draft.
-        Byron Buxton 2017 Al Gold Glove winner; 2021 April AL Player of the Month; 2017 AL SB % leader at 96.67 and the active leader at 87.65%.
+        Byron Buxton 2017 Al Gold Glove Award winner; 2021 April AL Player of the Month; 2017 AL SB % leader at 96.67 and the active leader at 87.65%.
         Buxton has a career .248 BA 70 HR .299 OBP .461 SLG .761 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>

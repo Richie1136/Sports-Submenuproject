@@ -13,7 +13,7 @@ const Mlb = () => {
       <h1>MLB</h1>
       <p className='league'>The MLB is a professional baseball organization and the oldest major professional sports league in the world. As of 2021, a total of 30 teams play in the MLB- 15 teams in the National League(NL) and 15 in the American League(AL)- with 29 in the United States and 1 in Canada.
         The MLB was founded in 1903 by the National Association of Baseball Players.
-        The MLB colors are Blue, and Red. The teams are aligned as followed;
+        The MLB colors are Blue, and Red. Every division consists of 5 teams, The teams are aligned as followed;
       </p>
       <br />
       <p className='ale'>

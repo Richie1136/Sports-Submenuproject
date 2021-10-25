@@ -16,7 +16,7 @@ const Oakland = () => {
       <p className='olson'>
         Matt Olson is a terrific all around player, he is a solid hitter with tons of power from the left side of the plate and is one of, if not the best defensive first baseman in the league.
         Matt Olson was drafted in the 1st round by the Athletics in the 2012 MLB draft.
-        Matt Olson is a one-time Mlb All-Star; 2018 & 2019 AL Gold Glove winner.
+        Matt Olson is a one-time Mlb All-Star; 2018 & 2019 AL Gold Glove Award winner.
         Olson has a career .252 BA 142 HR .348 OBP .511 SLG .859 OPS.
 
       </p>
@@ -26,7 +26,7 @@ const Oakland = () => {
         Matt Chapman is known for being elite defensively and arguably one of the best, if not the best defensive infielders ever.
         Matt Chapman is a third baseman.
         Matt Chapman was drafted in the 1st round by the Athletics in the 2014 MLB draft.
-        Matt Chapman is a one-time Mlb All-Star; 2018 & 2019 AL Gold Glove Winner.
+        Matt Chapman is a one-time Mlb All-Star; 2018 & 2019 AL Gold Glove Award winner.
         Chapman has a career .243 BA 111 HR .330 OBP .478 SLG .808 OPS.
         <img className='img2' src={logo2} alt='img2' />
       </p>

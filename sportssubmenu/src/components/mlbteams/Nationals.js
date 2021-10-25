@@ -17,7 +17,7 @@ const Nationals = () => {
         Juan Soto is one of the most underrated players and most exiciting players in all of baseball , soto will be a cornerstone for the nationals future.
         Juan Soto is a outfielder.
         Juan Soto was signed by the Washington Nationals on July 2nd, 2015 as a free agent.
-        Juan Soto is a one-time Mlb All-Star; 2020 Silver Slugger Award winner; 2020 NL Batting Average leader; 2020 NL On-Base% leader and 2021 NL On-Base% leader.
+        Juan Soto is a one-time Mlb All-Star; 2020 Silver Slugger Award winner; 2020 NL batting title; 2020 NL On-Base% leader and 2021 NL On-Base% leader.
         Soto has a career .301 BA 98 HR .432 OBP .550 SLG .981 OPS.
 
       </p>

@@ -26,7 +26,7 @@ const Rays = () => {
       <p className='glasnow'>
         Tyler Glasnow is one of the best young pitchers in the league, unfortunately he has had a couple of arm injuries which has limited his ability to throw alot of innings.
         Tyler Glasnow was drafted in the 5th round by the Pirates in the 2011 MLB draft and was traded on July 31st, 2018 to the Tampa Bay Rays.
-        Tyler Glasnow 2019 April AL Pitcher of the Month and was 4th in the AL in Strikeouts during the 2020 season with 91.
+        Tyler Glasnow 2019 April AL Pitcher of the Month and finished 4th in the AL in Strikeouts during the 2020 season with 91.
         Glasnow has a career 4.04 ERA, 506 strikeouts and a 11.3 K/9.
         <img className='img2' src={logo2} alt='img2' />
       </p>

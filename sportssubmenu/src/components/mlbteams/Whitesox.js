@@ -7,7 +7,7 @@ const Whitesox = () => {
   return (
     <div className='chw'>
       <h1>Chicago White Sox </h1>
-      <p className='whitesox'>The Chicago White Sox are a Major League Baseball team. They are based in Chicago, Illinois.
+      <p className='whitesox'>The Chicago White Sox are a Major League Baseball team. They are based in Chicago, IL.
         They are a member of the Central Division of Major League Baseball's American League. The White Sox colors
         are Black and Silver. The White Sox were founded in 1894.
         The White Sox finished the regular season with a 93-69 record and lost to the Astros in the American League Division Series.
@@ -17,7 +17,7 @@ const Whitesox = () => {
         Jose Abreu has been one of the best hitters for the white sox his whole career.
         Jose Abreu is a first baseman.
         Jose Abreu was signed by the Twins in October of 2013 as an amateur free agent.
-        Jose Abreu is a three-time Mlb All-Star; 2020 Al MVP; three-time Silver Slugger winner; two-time RBI leader for the AL in 2019 with 123 & 2020 with 60.
+        Jose Abreu is a three-time Mlb All-Star; 2020 Al MVP; three-time Silver Slugger Award winner; two-time RBI leader for the AL in 2019 with 123 & 2020 with 60.
         Abreu has a career .290 BA 228 HR .350 OBP .515 SLG .865 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />

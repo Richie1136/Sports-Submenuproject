@@ -15,7 +15,7 @@ const Brewers = () => {
       <p className='burnes'>
         The Brewers have a talented roster, which is led by a fantasic duo of starting pitchers and a solid bullpen. The two pitchers are amongest the best in the mlb as starters.One of the players
         being Corbin Burnes.
-        Burnes is a one-time Mlb All-Star; one-time NL ERA leader and one-time NL K/9 leader.
+        Burnes is a one-time Mlb All-Star; one-time NL ERA champion and one-time NL K/9 champion.
         Corbin Burnes was drafted in the 4th round of the 2016 Mlb draft by the brewers.
         Burnes has a career 3.39 ERA, 427 strikeouts and a 12.3 K/9.
       </p>

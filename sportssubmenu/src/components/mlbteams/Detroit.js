@@ -7,16 +7,16 @@ const Detroit = () => {
   return (
     <div className='det'>
       <h1>Detroit Tigers</h1>
-      <p className='tigers'>The Detroit Tigers are a Major League Baseball team. They are based in Detroit, Michigan.
+      <p className='tigers'>The Detroit Tigers are a Major League Baseball team. They are based in Detroit, MI.
         They are a member of the Central Division of Major League Baseball's American League. The Tigers colors
-        are Navy, and Orange. The Tigers began in 1901.
+        are Navy, and Orange. The Tigers were founded in 1894.
         The Detroit Tigers are the oldest American League baseball team to have only one home city and one name in their history. Beginning in 1894, the Tigers played at Boulevard Park as a charter member in the Western League.
         The Tigers finished the regular season with a 77-85 record. Although the tigers finished 8 games below .500 the future is extremely bright for this organization.</p>
       <br />
       <p className='candelario'>
         Jeimer Candelario is one of the longest tenure tigers and has been a solid player for years, and this best season being his best.
-        Jeimer Candelario is a 1st and 3rd baseman.
-        Jeimer Candelario was signed by the Cubs in November of 2010 as a free agent.
+        Jeimer Candelario is a first and third baseman.
+        Jeimer Candelario was signed by the Cubs in November of 2010 as a free agent and was traded on July 31st, 2017 to the Detroit Tigers.
         Candelario won 2020 September 13th AL Player of the Week winner and 2021 AL Doubles leader.
         Candelario has a career .246 BA 53 HR .334 OBP .410 SLG .744 OPS.
       </p>

@@ -18,7 +18,7 @@ const Sanfrancisco = () => {
         Brandon Crawford had his best offensive season of his career during the 2021 season hitting .298 BA 24 HR .373 OBP .522 SLG and .895 OPS.
         Brandon Crawford was drafted in the 4th round by the Giants in the 2008 MLB draft.
         Brandon Crawford is a shortstop.
-        Brandon Crawford is a three-time Mlb All-Star; 2015 NL SS Silver Slugger award winner; 2015, 2016 & 2017 NL Gold Glove winner.
+        Brandon Crawford is a three-time Mlb All-Star; 2015 NL SS Silver Slugger Award winner; 2015, 2016 & 2017 NL Gold Glove Award winner.
         Crawford has a career .254 BA 130 HR .322 OBP .405 SLG .727 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />

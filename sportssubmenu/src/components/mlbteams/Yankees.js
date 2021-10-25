@@ -24,7 +24,7 @@ const Yankees = () => {
       <p className='cole'>
         Gerrit Cole has become a top 5 pitcher in baseball after starting his career with not much success with the pirates.
         Gerrit Cole was drafted in the 1st round by the Pirates in the 2011 MLB draft, then was traded on January 13th, 2018 to the Houston Astros and was signed by the Yankees as a free agent on December 18th, 2019.
-        Gerrit Cole is a four-time All-Star; 2019 AL ERA leader;  6-time Monthly Awards winner; 2019 September 29th AL Player of the Week winner; 2018 & 2019 AL K per 9 leader with 12.399 & 13.818 respectively; 2019 AL Strikeout leader with 326.
+        Gerrit Cole is a four-time All-Star; 2019 AL ERA champion;  6-time Monthly Awards winner; 2019 September 29th AL Player of the Week winner; 2018 & 2019 AL K per 9 leader with 12.399 & 13.818 respectively; 2019 AL Strikeout leader with 326.
         Cole has a career 3.20 ERA 1673 strikeouts and a 10.4 K/9.
         <img className='img2' src={logo2} alt='img2' />
       </p>

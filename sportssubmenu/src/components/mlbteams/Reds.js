@@ -16,8 +16,8 @@ const Reds = () => {
       <p className='votto'>
         Joey Votto is the longest tenured reds player. Joey Votto has been one of the most consistent hitters in baseball over the last 13 seasons.
         Joey Votto was drafted in the 2nd round by the Reds in the 2002 MLB draft.
-        Joey Votto is a 1st baseman.
-        Joey Votto is a six-time Mlb All-Star; 2010 NL MVP; 2011 NL Gold Glove; 7-time NL OBP% leader.
+        Joey Votto is a first baseman.
+        Joey Votto is a six-time Mlb All-Star; 2010 NL MVP; 2011 NL Gold Glove Award winner; 7-time NL OBP% leader.
         Votto has a career .302 BA 331 HR .416 OBP .520 SLG .937 OPS.
       </p>
       <img className='img1' src={logo} alt='img1' />
