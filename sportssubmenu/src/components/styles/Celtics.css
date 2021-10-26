@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.clec h1 {
+.bosc h1 {
   text-align: center;
-  color: #860038;
+  color: #007a33;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.mobley {
+.brown {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #041e42;
+  color: #963821;
 }
-.sexton {
+.tatum {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #860038;
+  color: #ba9653;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.cavs {
+.celtics {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #041e42;
+  color: #000000;
 }

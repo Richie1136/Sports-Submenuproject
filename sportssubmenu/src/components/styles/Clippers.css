@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.clec h1 {
+.lac h1 {
   text-align: center;
-  color: #860038;
+  color: #e31937;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.mobley {
+.ramirez {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #041e42;
+  color: #0c2340;
 }
-.sexton {
+.bieber {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #860038;
+  color: #0c2340;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.cavs {
+.clippers {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #041e42;
+  color: #e31937;
 }

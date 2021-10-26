@@ -20,10 +20,10 @@ const Cavs = () => {
       <img className='img1' src={logo} alt='img1' />
       <br />
       <p className='mobley'>
-        Zach LaVine is a shooting guard, who is a explosive player when driving to the basket.
-        LaVine is a 1-time Nba All-Star; made the 2014-15 All-Rookie 2nd Team; finished 7th in PPG for the 2020-21 season.
-        Zach LaVine was drafted 13rd overall by the Minnesota Timberwolves in the 2014 Nba draft, and was traded on June 22nd, 2017.
-        LaVine has a career 19.1 PPG 3.8 APG .458 FG% .385 3P%.
+        Evan Mobley is a center/power forward, who is a very good rebounder and rim protector. With a 7 foot 4 wingspan he led the NCAA with 2.9 BPG and will be able to effect a ton of shots throughout his Nba career.
+        Mobley college accolades 2020-21 Pac-12 POY; NCAA All-Region; Consenus All American; 2021 Pac-12 All-Defense 1st team.
+        Evan Mobley was drafted 3rd overall by the Cleveland Cavaliers in the 2021 Nba draft.
+        Mobley's college stats 16.4 PPG 8.7 RPG .578 FG% .300 3P%.
         <img className='img2' src={logo2} alt='img2' />
       </p>
     </div>
