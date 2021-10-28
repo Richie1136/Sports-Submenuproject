@@ -443,7 +443,7 @@ Stripe Styles
 
 .lac h1 {
   text-align: center;
-  color: #e31937;
+  color: #c8102e;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.ramirez {
+.leonard {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #0c2340;
+  color: #1d428a;
 }
-.bieber {
+.george {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #0c2340;
+  color: #c8102e;
 }
 .img1 {
   position: absolute;
@@ -484,5 +484,5 @@ Stripe Styles
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #e31937;
+  color: #1d428a;
 }

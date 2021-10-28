@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../../images/melo.png'
-import logo2 from '../../images/bridges.png'
+import logo from '../../images/george.png'
+import logo2 from '../../images/leonard.png'
 import '../styles/Clippers.css'
 
 const Clippers = () => {
@@ -20,10 +20,10 @@ const Clippers = () => {
       <img className='img1' src={logo} alt='img1' />
       <br />
       <p className='leonard'>
-        Miles Bridges is a Small Forward/ Power Forward, who came into the nba known for his dunking ability and his inability to shoot 3 pointers.
-        Miles Bridges October 25th, 2021 Player of the Week Award winner.
-        Miles Bridges was drafted 12th overall by the Los Angeles Clippers in the 2018 Nba draft and was traded on draft night to the Charlotte Hornets.
-        Bridges has a career 11.1 PPG 5.2 RPG .463 FG% .355 3P%.
+        Kawhi Leonard is a Small Forward, who has been known for his really strong defense.
+        Kawhi Leonard is a 5-time Nba All-Star; 2014-15 STL Champ; 7-time All-Defensive; 5-time All-Nba; 2-time Finals MVP; 2-time NBA Champ; 2-time Defensive Player of the Year.
+        Kawhi Leonard was drafted 15th overall by the Indiana Pacers in the 2011 Nba draft, was traded on draft night to the San Antonio Spurs, then was traded to the Toronto Raptors on July 18th, 2018 and then was signed as a free agent to the Los Angeles Clippers.
+        Leonard has a career 19.2 PPG 6.4 RPG .493 FG% .384 3P%.
         <img className='img2' src={logo2} alt='img2' />
       </p>
     </div>
