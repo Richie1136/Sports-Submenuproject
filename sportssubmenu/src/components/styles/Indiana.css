@@ -441,9 +441,9 @@ Stripe Styles
   margin-right: 1rem;
 }
 
-.mia h1 {
+.ind h1 {
   text-align: center;
-  color: #98002e;
+  color: #002d62;
 }
 
 .img2 {
@@ -454,23 +454,23 @@ Stripe Styles
   height: 253.99px;
 }
 
-.adebayo {
+.brogdon {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   right: 17px;
-  color: #98002e;
+  color: #002d62;
 }
-.butler {
+.turner {
   text-align: center;
   display: flex;
   width: 330px;
   position: absolute;
   top: 285px;
   left: 17px;
-  color: #f9a01b;
+  color: #002d62;
 }
 .img1 {
   position: absolute;
@@ -479,10 +479,10 @@ Stripe Styles
   width: 349.99px;
   height: 253.99px;
 }
-.heat {
+.pacers {
   text-align: center;
   margin-top: 25px;
   display: flex;
   position: absolute;
-  color: #000000;
+  color: #002d62;
 }
